@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -37,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Css could be a bit tricky when one is not familiar with element attributes.
 
 ```css
 .proud-of-this-css {
@@ -47,7 +45,7 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Continued development
 
-I'm still trying to get familiar with attributes of elements in html & css. I realised that some elements do not take certain attributes. for example, the img element cannot have a colour attribute, but can take a width attribute. It's going to take some getting used to but i'll keep practicing.
+I'm still trying to get familiar with attributes of elements in html & css. I realised that some elements do not take certain attributes. for example, the img element cannot have a colour attribute, but can take a width and height attribute. It's going to take some getting used to but i'll keep practicing.
 
 ### Useful resources
 
