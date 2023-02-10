@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Igraziella/Frontend-mentor_challenges/tree/main)
-- Live Site URL: ( https://igraziella.github.io/frontend-mentor_challenges)
+- Solution URL: (https://github.com/Igraziella/Qrcard_component_challenge)
+- Live Site URL: (https://igraziella.github.io/Qrcard_component_challenge/)
 
 ## My process
 
