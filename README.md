@@ -40,7 +40,7 @@ Css could be a bit tricky when one is not familiar with element attributes.
 ```css
 .proud-of-this-css {
   box-sizing: border-box;
-  box-sizing: content-box;
+  display: flex;
 }
 
 ### Continued development
@@ -53,6 +53,6 @@ I'm still trying to get familiar with attributes of elements in html & css. I re
 
 ## Author
 
-- Website - [Obialor Ijeoma](https://www.your-site.com)
+- Website - [Obialor Ijeoma](https://igraziella.github.io/Qrcard_component_challenge/)
 - Frontend Mentor - [@igraziella](https://www.frontendmentor.io/profile/Igraziella)
 - Linkedin - [Obialor Ijeoma](https://www.linkedin.com/in/ijeoma-obialor-012494114)
